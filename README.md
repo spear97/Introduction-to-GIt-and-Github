@@ -1,7 +1,5 @@
 # Introduction to Git and GitHub
 
-# Introduction to Git and GitHub
-
 ## Simple Interest Calculator
 
 This Simple Interest Calculator is a basic tool that calculates the simple interest based on the provided principal amount, annual rate of interest, and time period in years.
